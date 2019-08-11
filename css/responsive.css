@@ -1,0 +1,415 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    .menu_area .navbar-brand {
+        font-size: 42px;
+    }
+    .menu_area #nav .nav-link {
+        padding: 35px 7.5px;
+    }
+    .sing-up-button > a {
+        color: #fff;
+        height: 40px;
+        min-width: 152px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+    .welcome-thumb {
+        width: 50%;
+        bottom: -100px;
+        right: 0;
+    }
+    .video-area {
+        height: 550px;
+    }
+    .app_screenshots_slides {
+        padding: 0 4%;
+    }
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 23px 7.5px;
+    }
+    .messenger1 {
+        width: auto;
+    }
+
+    .welcome-thumb img {
+        position: relative;
+        height: auto;
+        width: 500px;
+        left: 150px;
+        bottom:0;
+    }
+
+    .single-special > h4 {
+        font-size: 22px;
+        color: #5b32b4;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .header_area {
+        padding: 0;
+    }
+    .menu_area .navbar-brand {
+        font-size: 48px;
+    }
+    .header_area.sticky {
+        height: 50px;
+    }
+    .header_area .menu_area #nav .nav-link,
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 7.5px 15px;
+    }
+    #ca-navbar {
+        padding: 30px;
+        border-radius: 3px;
+        background-color: #5b32b4;
+        text-align: left;
+    }
+    .sing-up-button {
+        margin-top: 30px;
+        text-align: left;
+    }
+    .wellcome_area {
+      columns: 6;
+    }
+    .welcome-thumb {
+        width: 50%;
+        bottom: -150px;
+        right: 0;
+    }
+    .wellcome-heading {
+        margin-bottom: 200px;
+    }
+    .single-special {
+        padding: 30px 10px;
+    }
+    .special_description_area.mt-150 {
+        margin-top: 50px;
+    }
+    .special_description_content > h2 {
+        font-size: 30px;
+    }
+    .video-area {
+        height: 350px;
+    }
+    .section-heading > h2 {
+        font-size: 38px;
+    }
+    .address-text > p,
+    .phone-text > p,
+    .email-text > p {
+        font-size: 16px;
+    }
+    .footer-text > p {
+        margin-bottom: 30px;
+    }
+    .section-heading {
+        margin-bottom: 50px;
+    }
+    .sing-up-button > a {
+        margin-top: 4px;
+        display: inline-block;
+        border: 2px solid #a883e9;
+        height: 40px;
+        min-width: 160px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+    .counter-area {
+        min-width: 50px;
+    }
+    .counter-area > h3 {
+        font-size: 30px;
+    }
+    .app_screenshots_slides {
+        padding: 0;
+    }
+    .clients-feedback-area .slick-slide.slick-current img {
+        width: 90px !important;
+        height: 90px !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+
+    .wellcome_area {
+      width: 1000px;
+      height: 1800px;
+    }
+
+    .header_area {
+        padding: 0;
+    }
+    .menu_area .navbar-brand {
+        font-size: 48px;
+    }
+    .menu_area {
+        width: 411px;
+        height: auto;
+    }
+
+    .header_area.sticky {
+        height: 50px;
+    }
+    .header_area .menu_area #nav .nav-link,
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 5px 15px;
+    }
+    #ca-navbar {
+        padding: 20px;
+        border-radius: 3px;
+        background-color: #5b32b4;
+        text-align: left;
+    }
+    .sing-up-button {
+        margin-top: 30px;
+        text-align: left;
+    }
+    .header_area {
+        top: 0;
+    }
+    .welcome_text .cd-intro > p {
+        font-size: 14px;
+
+    }
+    .wellcome-heading > h2 {
+        font-size: 148px;
+        bottom: -60px;
+    }
+
+    .wellcome-heading > p {
+        font-size: 20px;
+        position: relative;
+        bottom: -100px;
+    }
+
+    .get-start-area .email {
+        width: 80%;
+        position: static;
+        text-align: center;
+        top: 1000px;
+    }
+
+    .welcome-thumb {
+        width: 80%;
+        bottom: 0px;
+        right: 70px;
+        position: relative;
+        margin-bottom: 40px;
+    }
+
+    .welcome-thumb img {
+        position: relative;
+        height: auto;
+        width: 500px;
+        left: 275px;
+        bottom:0;
+    }
+    .phone-footers {
+      position: absolute;
+      width: 80px;
+      height: auto;
+      top: 80px;
+      left: 100px;
+    }
+
+    .get-start-area .submit {
+        font-size: 30px;
+        text-align: center;
+        position: relative;
+        top: 0.5px;
+        left: -1px;
+    }
+
+  .form-inline {
+    margin-left: 325px;
+  }
+  .submit{
+    width: 300px;
+    height: 70px;
+}
+    .phone-footers__description {
+      width: 180px;
+    }
+
+    .logo_area > a > h2 {
+        font-size: 90px;
+        margin-top: 10px;
+    }
+    .section-heading > h2 {
+        font-size: 90px;
+        margin-top: 60px;
+        margin-bottom: -60px;
+
+    }
+    .single-special {
+        margin-bottom: 30px;
+    }
+    .single-special > h4 {
+        font-size: 52px;
+        color: #5b32b4;
+    }
+
+    .single-special > p {
+        font-size: 26px;
+        color: #726a84;
+    }
+
+    .special_description_area.mt-150 {
+        margin-top: 10px;
+    }
+    .special-area {
+    width: 970px;
+    }
+
+    .special_description_content > h2 {
+        font-size: 90px;
+        text-align: center;
+
+    }
+    .special_description_content > p {
+        font-size: 26px;
+      text-align: center;
+    }
+    .special_description_img {
+      margin-bottom: 70px;
+    }
+
+    .app-download-btn:first-child {
+        margin-right: 0;
+    }
+    .app-download-area {
+        display: block;
+    }
+    .app-download-btn {
+        margin-bottom: 20px;
+    }
+    .video-area {
+        border: 10px solid #fff;
+        border-radius: 20px;
+        height: 250px;
+    }
+    .video-area::after {
+        top: -10px;
+        left: -10px;
+        width: calc(100% + 20px);
+        height: calc(100% + 20px);
+        border: 1px solid #f1f4f8;
+        z-index: 2;
+        border-radius: 20px;
+    }
+    .clients-feedback-area .client-description > p {
+        font-size: 20px;
+    }
+    .clients-feedback-area .slick-slide img {
+        width: 60px !important;
+        height: 60px !important;
+    }
+    .clients-feedback-area .slick-slide.slick-current img {
+        width: 70px !important;
+        height: 70px !important;
+    }
+    .membership-description > h2 {
+        font-size: 32px;
+    }
+
+    .contact_from {
+        margin-top: 30px;
+    }
+    .wellcome-heading > h3 {
+        font-size: 220px;
+        top: 305px;
+        left: -1px;
+        width: 375px;
+    }
+
+    .wellcome-heading > p {
+        font-size: 35px;
+    }
+
+    .primera {
+      font-size: 42px;
+    }
+    .wellcome-heading,
+    .single-cool-fact {
+        margin-bottom: 50px;
+    }
+    .cool_facts_area .col-12:last-of-type .single-cool-fact {
+        margin-bottom: 0;
+    }
+    .line-shape {
+        margin-top: 90px;
+        margin-bottom: -30px;
+    }
+
+    .messenger1 {
+        width: 4%;
+    }
+    .awesome-feature-area {
+      width: 970px;
+    }
+
+    .submit-btn {
+      width: 300px;
+      height: 70px;
+      margin-left: 325px;
+   }
+   .footer-text{
+padding-top: 100px;
+   }
+   .footer-text h4 {
+
+     font-size: 44px;
+   }
+
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+
+    .wellcome-heading > h3 {
+        font-size: 284px;
+    }
+    .wellcome-heading > h2 {
+        font-size: 70px;
+    }
+    .welcome-thumb {
+        bottom: -109px;
+        width: 75%;
+    }
+    .wellcome-heading {
+        margin-bottom: 50px;
+    }
+    .wellcome-heading > h3 {
+        top: -139px;
+    }
+    .get-start-area .email {
+        max-width: 370px;
+    }
+    .welcome-thumb {
+        width: 70%;
+        bottom: -10px;
+        position: sticky;
+    }
+    .welcome-thumb img {
+        position: relative;
+        height: auto;
+        width: 500px;
+        left: 150px;
+        bottom:0;
+    }
+
+    .line-shape {
+        margin-top: 90px;
+
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .wellcome-heading > h3 {
+        font-size: 286px;
+    }
+    .get-start-area .email {
+        margin-bottom: 0;
+    }
+}
